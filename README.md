@@ -3,6 +3,8 @@ This project is a 3D endless runner game remake of Subway Surfers, created as a 
 
 This code is viewable for reference only and cannot be copied, modified, or redistributed without explicit permission.
 
+All files of project can be shared upon request. 
+
 ![in game display](ingamedisplay.png)
 ![city display](citydisplay.png)
 
